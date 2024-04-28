@@ -1,0 +1,50 @@
+Este conjunto de datos contiene una encuesta de satisfacción de los pasajeros de una aerolínea. ¿Qué factores están altamente correlacionados con un pasajero satisfecho (o insatisfecho)? ¿Se puede predecir la satisfacción de los pasajeros?
+
+Contenido
+Género: Género de los pasajeros (Mujer, Hombre)
+
+Tipo de cliente: el tipo de cliente (cliente leal, cliente desleal)
+
+Edad: La edad real de los pasajeros.
+
+Tipo de Viaje: Propósito del vuelo de los pasajeros (Viaje Personal, Viaje de Negocios)
+
+Clase: Clase de viaje en el avión de los pasajeros (Business, Eco, Eco Plus)
+
+Distancia de vuelo: la distancia de vuelo de este viaje.
+
+Servicio wifi a bordo: Nivel de satisfacción del servicio wifi a bordo (0:No aplicable;1-5)
+
+Hora de salida/llegada conveniente: Nivel de satisfacción de la hora de salida/llegada conveniente
+
+Facilidad de reserva en línea: nivel de satisfacción de la reserva en línea
+
+Ubicación de la puerta: Nivel de satisfacción de la ubicación de la puerta
+
+Comida y bebida: Nivel de satisfacción de Comida y bebida
+
+Embarque online: Nivel de satisfacción del embarque online
+
+Confort del asiento: Nivel de satisfacción del confort del asiento
+
+Entretenimiento a bordo: Nivel de satisfacción del entretenimiento a bordo
+
+Servicio a bordo: Nivel de satisfacción del servicio a bordo
+
+Servicio de habitaciones para piernas: Nivel de satisfacción del servicio de habitaciones para piernas
+
+Manejo de equipaje: Nivel de satisfacción en el manejo de equipaje
+
+Servicio de Check-in: Nivel de satisfacción del servicio de Check-in
+
+Servicio a bordo: Nivel de satisfacción del servicio a bordo
+
+Limpieza: Nivel de satisfacción de la Limpieza
+
+Retraso de salida en minutos: Minutos de retraso a la salida
+
+Retraso de llegada en minutos: Minutos de retraso cuando llega
+
+Satisfacción: Nivel de satisfacción de la aerolínea (Satisfacción, neutral o insatisfacción)
+
+Tenga en cuenta que este conjunto de datos fue modificado a partir de este conjunto de datos por John D aquí . Se ha limpiado a efectos de clasificación.
